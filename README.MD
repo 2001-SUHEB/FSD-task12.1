@@ -8,13 +8,11 @@
 
 # Weather, Jokes, and Cats
 
-This project is a simple web application that allows users to get weather information, random jokes, and random cat images. It uses JavaScript, Bootstrap for styling, and various APIs for fetching data.
+This project is a simple web application that allows users to get weather information It uses JavaScript, Bootstrap for styling, and weather API for fetching data.
 
 ## Features
 
 - **Get Weather**: Enter a city name to get current weather information.
-- **Get Joke**: Fetch a random joke.
-- **Get Cat Image**: Fetch a random cat image.
 
 ## Technologies Used
 
@@ -22,8 +20,6 @@ This project is a simple web application that allows users to get weather inform
 - CSS (Bootstrap)
 - JavaScript
 - Weather API (WeatherAPI.com)
-- Joke API (JokeAPI.dev)
-- Cat Image API (TheCatAPI.com)
 
 
 ## Files
