@@ -6,7 +6,7 @@
 
 
 
-# Weather, Jokes, and Cats
+# Weather App
 
 This project is a simple web application that allows users to get weather information It uses JavaScript, Bootstrap for styling, and weather API for fetching data.
 
